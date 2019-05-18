@@ -35,3 +35,4 @@ configuration.yml
           other_room:
             mac: "BB:AA:CC:DD:EE:FF"
 
+In case of sensors not updating after first time, (disable Bluetooth tracking and) reboot raspberry completely after config files are finished.
